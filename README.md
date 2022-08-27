@@ -1,5 +1,5 @@
 # nlx
-NewsletterX - Open-source, headless, supercharged analytics newsletter system.
+NewsletterX - Open-source, headless, supercharged-analytics newsletter system.
 
 ## Why?
 
