@@ -53,3 +53,8 @@ We decided to use [Astro.js](astro.build) because of the following pros:
 - Auto-tweet new post.
 - Comments (via discord?).
 
+
+### Q&A
+
+- Q: How are you going to make moeny? a service?
+- A: Maybe in the future, right now I mainly need this for myself, I might open it up for GitHub sponsorships.
