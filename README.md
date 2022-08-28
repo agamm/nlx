@@ -20,6 +20,13 @@ NewsletterX - Open-source, headless, supercharged-analytics newsletter system.
 - 🛸 Import newsletter from Substack/Ghost/Mailchimp/Revue.
 - Other features: double-opt-in, auto-optimize images, auto `?ref` on links.
 
+## Roadmap
+MVP Phase:
+- Manage to have a way to convert MDX into a blog post in Astro and send it as an email - via the cli at first.
+- Add subscription service with API back to frontend.
+- Add analytics service per link and subscriber.
+- Start versioning & releasing it.
+
 ## Architecture
 *Statically generated, API routes and DB for analytics.*
 
