@@ -52,6 +52,7 @@ We decided to use [Astro.js](astro.build) because of the following pros:
 - Encrypt member emails and info (admin secondary password to send email).
 - Auto-tweet new post.
 - Comments (via discord?).
+- Add `npm create` command to bootstrap a new project.
 
 
 ### Q&A
